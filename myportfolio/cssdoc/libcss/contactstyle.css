@@ -1,0 +1,14 @@
+
+Section Address{
+    background-color: bisque;
+}
+
+
+Address{
+width:fit-content;
+    display: inline-table;
+}
+address{
+    padding: 5px;
+    margin: 1px;
+}
